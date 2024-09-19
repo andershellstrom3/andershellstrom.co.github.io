@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/andershellstrom3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://andershellstrom.co
+  * I am andershellstrom3 (https://keybase.io/andershellstrom3) on keybase.
+  * I have a public key with fingerprint A3CB 4039 2A49 7FFE 79D5  26C9 64E7 01DF 0169 F903
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101adbf1551a30dc335e4d884387235547b2846facba800f2903fd9446f06f590af0a",
+      "fingerprint": "a3cb40392a497ffe79d526c964e701df0169f903",
+      "host": "keybase.io",
+      "key_id": "64e701df0169f903",
+      "kid": "0101adbf1551a30dc335e4d884387235547b2846facba800f2903fd9446f06f590af0a",
+      "uid": "f08e20ea8dd7f59fa7e9f366b9827119",
+      "username": "andershellstrom3"
+    },
+    "service": {
+      "hostname": "andershellstrom.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1726712339,
+  "expire_in": 157680000,
+  "prev": "ca2d59330417022e449032a3b350ba55fdc4e8f91d16a8b1b7456ccac205ce20",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMImAnicrZJbSBVBGMePWlZGUYlZPUStJFEmMzt7PWQXicgigohICk6zOzPnLB53
+T7t7LJPTHbq/BBWoRUkJRYRZSCimhpUiQUUUmEUUhCmUFiSUXWal3nzsaZj5/v/f
+fP+Pr3NaRigr7U282vp0rlVP6+moT4bY4InsKsFwSKUQrhLK6NhB44R6fqTMIkJY
+ABBATAwGZRliBIiJkEwlomkS0lQRybKkGqImKQybBtYAYKIOECO6xJ+AwmQdYAaw
+UCAwy45SN+Fats+xGJmGBJAuYklXGaOqTmRRMXVFoiqAhAGo6IyTuDHmeIGDN2dg
+jxZaDn/jl8hYe+Po/3PfyTEcAxoVAcUaISovMqxSnSFFMXRNVCHUA6FHXRuX0yCd
+TajrxWg87vmuU46EVIHAqxWWSYMBB4nGVxaaQbqE6/iO6cR5Peb7CS8c+P3KRGDY
+TY3IX1TEsGzCp8odFRxiObYQhlxp+lbAhqqoqFBESC8Q6J6E5dKIFShkVeF5AQj+
+oRUcaWKRyDpCQIIqEEUqSXwUIkYGkoGBZZkRU6Ia0yGBCtYMaKiSrJgmNkUgm3wq
+QhBul+1wtsj7xFHO9Kyojf2kS4XU/fYdE0JpWaHMienBuoWypsz4t4TZ8yaHriTP
+7v7ZkRfue6Vvbr6a09eAc7rs3oVFvbD5alPuybYDyRF3YDN88bp6sPPi0KoVCN5t
+aqx9X5z6vfN728at66Y1VD9dWJp3eklLw6JjueGeN6mVrVtyaj58dT4S60L+tdDw
+j7dnLq9+tOF81cC+w1duNnbdKh4pVtfX1DVGFgyuSTWsqE/fjp50nLo0l24/W9K/
+aXbsQX7n6dG9R0rrRjNKR4uWTiLd+/fcjRbcXnWscnj64oPNs07Fb5Qvf16UOefX
+Q3vt7W99Q+a7qYdaame+7Pp572i0pSp2/fqDGR8Wl3Q3HlqWWpm9Dd33jj97PPQl
+cqf/5sH+z/O31jQlxAO/29qFRdof0PROBg==
+=8UzA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andershellstrom3
+
+==================================================================
